@@ -261,3 +261,302 @@ BLOG_POSTS = {
          "desc": "Hodinová cena vs paušál. Co je reálně v ceně a co ne. Kolik hodin potřebuje e-shop měsíčně.", "tag": "Cena"},
     ],
 }
+
+
+# ---------------------------------------------------------------- blog articles
+BLOG_ARTICLES = {
+    "seo-pre-eshop-navod": {
+        "sk": {
+            "label": "Návod",
+            "h1": "SEO pre e-shop: kompletný návod 2026",
+            "title": "SEO pre e-shop: kompletný návod 2026 | SEO pre e-shopy",
+            "desc": "SEO pre e-shop krok za krokom: kategórie, produkty, technika a obsah. Návod s reálnymi číslami a cenami od 240 EUR mesačne.",
+            "date_display": "17. 9. 2026", "date_iso": "2026-09-17",
+            "answer": "SEO pre e-shop je optimalizácia kategórií a produktov na dopyty, ktoré zákazníci hľadajú pred nákupom. Štruktúra kategórií, systémové popisy produktov, riešenie filtrov a XML feedy pre Google Shopping. Prvé objednávky z dlhšieho chvosta za 2 až 4 mesiace, cena od 240 EUR mesačne (12 EUR za hodinu).",
+            "sections": """
+<h2>Prečo e-shopy potrebujú iné SEO než firemné weby</h2>
+<p>E-shop má tisíce stránok, filtrovanie a varianty. Google musí rozumieť, ktorá URL je správna pre ktorý dopyt. Presne preto e-shop SEO začína technikou: duplicitné URL z filtrov, kanonické adresy, štruktúrované dáta produktov. Firemný web má 10 stránok, e-shop 10 000. Každá chyba sa násobí.</p>
+
+<h2>Krok 1: Kategórie ako hlavný SEO kanál</h2>
+<p>Kategórie sú stránky, ktoré Google radí na hlavné dopyty: topánky na behanie, školské tašky. Každá kategória potrebuje: text na reálne hľadania, správny H1, interné odkazy a filtre bez duplicitných URL. Dopyty overte cez Marketing Miner alebo autocomplete.</p>
+
+<h2>Krok 2: Produkty systémovo, nie ručne</h2>
+<p>Nemôžete optimalizovať 5 000 produktov jeden po druhom. Nastavte šablóny popisov a pravidlá: farba + model + použitie v názve, dostupnosť v feede, varianty správne označené. Ručná práca len tam, kde sa vypláca (najpredávanejšie produkty).</p>
+
+<h2>Krok 3: Technika a feedy</h2>
+<ul>
+<li><strong>Filre</strong>: žiadne duplicitné URL, canonical na čistú adresu.</li>
+<li><strong>XML feed</strong>: Google Merchant Center s správnymi atribútmi (názov, cena, dostupnosť, GTIN).</li>
+<li><strong>Rýchlosť</strong>: LCP pod 2,5 s. E-shopy sú ťažké, cache a WebP sú povinnosť.</li>
+<li><strong>Schema</strong>: Product + Offer + Review. Google zobrazuje ceny a hodnotenia priamo v SERP.</li>
+</ul>
+
+<h2>Koľko SEO pre e-shop stojí</h2>
+<p>Menší e-shop: 20 hodín mesačne = 240 EUR. Stredný e-shop (kategórie + produkty + obsah): 30 hodín = 360 EUR. Veľký e-shop so systémovou optimalizáciou: 40 hodín = 480 EUR. Prvá hodina je bezplatný audit e-shopu, aby ste videli, čo brzdí váš predaj.</p>
+""",
+            "faq": [
+                ("Ako dlho trvá, kým e-shop SEO prinesie objednávky?", "Dlhší chvost (produktové frázy s farbou a modelom) 2 až 4 mesiace. Hlavné kategórie 6 až 12 mesiacov. Záleží na konkurencii vo vašom sortimente."),
+                ("Pracujete so Shoptet a Upgates?", "Áno, Shoptet, Upgates a WooCommerce sú najčastejšie platformy, s ktorými pracujem."),
+                ("Koľko hodín potrebuje e-shop mesačne?", "Menší e-shop 20 hodín (240 EUR), stredný 30 hodín (360 EUR), veľký 40 hodín a viac. Spresní to plán po audite."),
+            ],
+            "related": [
+                ("kategorie-seo", "Kategórie e-shopu: ako ich optimalizovať pre Google"),
+                ("shoptet-seo", "SEO na Shoptet: čo nastaviť a čo riešiť systémovo"),
+            ],
+        },
+        "cz": {
+            "label": "Návod",
+            "h1": "SEO pro e-shop: kompletní návod 2026",
+            "title": "SEO pro e-shop: kompletní návod 2026 | SEO pro e-shopy",
+            "desc": "SEO pro e-shop krok za krokem: kategorie, produkty, technika a feedy. Návod s reálnymi čísly a cenami od 240 EUR měsíčně.",
+            "date_display": "17. 9. 2026", "date_iso": "2026-09-17",
+            "answer": "SEO pro e-shop je optimalizace kategorií a produktů na dotazy, které zákazníci hledají před nákupem. Struktura kategorií, systémové popisy produktů, řešení filtrů a XML feedy pro Google Shopping. První objednávky z delšího chvostu za 2 až 4 měsíce, cena od 240 EUR měsíčně (12 EUR za hodinu).",
+            "sections": """
+<h2>Proč e-shop potřebuje jiný SEO než firemní web</h2>
+<p>E-shop má tisíce stránek, filtrování a varianty. Google musí rozumět, která URL je správná pro který dotaz. Proto e-shop SEO začíná technikou: duplicitní URL z filtrů, kanonické adresy, strukturovaná data produktů. Každá chyba se násobí počtem stránek.</p>
+
+<h2>Krok 1: Kategorie jako hlavní SEO kanál</h2>
+<p>Kategorie jsou stránky, které Google řadí na hlavní dotazy. Každá kategorie potřebuje: text na reálná hledání, správný H1, interní odkazy a filtry bez duplicitních URL. Dotazy ověříte přes Marketing Miner nebo autocomplete.</p>
+
+<h2>Krok 2: Produkty systémově, ne ručně</h2>
+<p>Nemůžete optimalizovat 5000 produktů ručně. Nastavte šablony popisů a pravidla: barva + model + použití v názvu, dostupnost ve feedu. Ruční práce jen tam, kde se vyplácí (nejprodávanější produkty).</p>
+
+<h2>Krok 3: Technika a feedy</h2>
+<ul>
+<li><strong>Filtry</strong>: žádné duplicitní URL, canonical na čistou adresu.</li>
+<li><strong>XML feed</strong>: Google Merchant Center se správnými atributy (název, cena, dostupnost, GTIN).</li>
+<li><strong>Rychlost</strong>: LCP pod 2,5 s. E-shopy jsou těžké, cache je povinnost.</li>
+<li><strong>Schema</strong>: Product + Offer + Review. Google zobrazuje ceny a hodnocení přímo ve výsledcích.</li>
+</ul>
+
+<h2>Kolik to stojí</h2>
+<p>Menší e-shop: 20 hodin měsíčně = 240 EUR. Střední e-shop: 30 hodin = 360 EUR. Velký e-shop: 40 hodín = 480 EUR. První hodina je bezplatný audit e-shopu.</p>
+""",
+            "faq": [
+                ("Jak dlouho trvá, než e-shop SEO přinese objednávky?", "Delší chvost (produktové fráze s barvou a modelem) 2 až 4 měsíce. Hlavní kategorie 6 až 12 měsíců."),
+                ("Pracujete se Shoptet a Upgates?", "Ano, Shoptet, Upgates a WooCommerce jsou nejčastější platformy, se kterými pracuji."),
+                ("Kolik hodin potřebuje e-shop měsíčně?", "Menší e-shop 20 hodin (240 EUR), střední 30 hodin (360 EUR), velký 40 hodín a více."),
+            ],
+            "related": [
+                ("kategorie-seo", "Kategorie e-shopu: jak je optimalizovat pro Google"),
+                ("shoptet-seo", "SEO na Shoptet: co nastavit a co řešit systémově"),
+            ],
+        },
+    },
+    "kategorie-seo": {
+        "sk": {
+            "label": "Kategórie",
+            "h1": "Kategórie e-shopu: ako ich optimalizovať pre Google",
+            "title": "SEO pre kategórie e-shopu | SEO pre e-shopy",
+            "desc": "Kategórie sú najväčší SEO kanál e-shopu. Ako ich štruktúrovať, písať texty a riešiť filtre. Od 240 EUR mesačne.",
+            "date_display": "17. 9. 2026", "date_iso": "2026-09-17",
+            "answer": "Kategórie sú najväčší SEO kanál e-shopu: Google ich radí na hlavné dopyty: topánky na behanie, školské tašky. Každá kategória potrebuje text na reálne hľadania, správny H1, interné odkazy a filtre bez duplicitných URL. Kategóriu, ktorá nemá žiadne hľadanie, presmerujte alebo zrušte.",
+            "sections": """
+<h2>Štruktúra kategórií podľa hľadaní</h2>
+<p>Štruktúra kategórií má zodpovedať tomu, čo zákazníci hľadajú, nie internej logike firmy. Dopyty overte cez Marketing Miner (objemy na SK/CZ) alebo autocomplete v Google. Každá hlavná kategória = jeden dopyt s objemom. Podkategórie = dlhší chvost ("dámske topánky na behanie").</p>
+
+<h2>Text kategórie, ktorý Google rád</h2>
+<ul>
+<li><strong>H1</strong>: presný názov, podľa ktorého zákazníci hľadajú. Nie marketingový slogan.</li>
+<li><strong>Úvod (2 až 3 riadky)</strong>: odpoveď na dopyt hneď, nad produktmi.</li>
+<li><strong>Nasledujúci text</strong>: pod produktmi, 200 až 400 slov. Pokrýva podotázky (farby, veľkosti, materiály).</li>
+<li><strong>Interné odkazy</strong>: z kategórie na súvisiace kategórie a blogové články.</li>
+</ul>
+
+<h2>Filte a ich URL</h2>
+<p>Filtre (farba, veľkosť, značka) vytvárajú nové URL. Ak Google indexuje každú kombináciu, vznikajú tisíce duplicitných stránok a Google stráca rozsah. Riešenie: canonical na čistú kategóriu alebo noindex na filter URL. Populárne filtre (farba + model) sa dajú vyňať ako stránky s vlastným textom, ak majú hľadania.</p>
+
+<h2>Čo z toho vyplýva pre e-shop</h2>
+<p>Kategórie sú práca na mesiace, ale najväčší kanál. Pri mojej spolupráci od 240 EUR mesačne (12 EUR za hodinu) idú kategórie ako prvé: plán podľa hľadaní, texty, filtre a interné odkazy v jednom systéme.</p>
+""",
+            "faq": [
+                ("Koľko textu má mať kategória?", "Úvod 2 až 3 riadky nad produktmi, doplnkový text 200 až 400 slov pod produktmi. Dôležitejšia je relevancia než dĺžka."),
+                ("Mám indexovať stránky s filtrami?", "Nie. Filtrované URLCanonicalizujte na čistú kategóriu. Výnimkou sú filtre s vlastnými hľadaniami, tie sa dajú urobiť ako samostatné stránky."),
+                ("Píšete texty kategórií za e-shopy?", "Áno, texty píšem na reálne hľadania z dát, nie na generické frázy. Súčasť retainera od 240 EUR mesačne."),
+            ],
+            "related": [
+                ("seo-pre-eshop-navod", "SEO pre e-shop: kompletný návod 2026"),
+                ("eshop-seo-cena", "Koľko stojí SEO pre e-shop"),
+            ],
+        },
+        "cz": {
+            "label": "Kategorie",
+            "h1": "Kategorie e-shopu: jak je optimalizovat pro Google",
+            "title": "SEO pro kategorie e-shopu | SEO pro e-shopy",
+            "desc": "Kategorie jsou největší SEO kanál e-shopu. Jak je strukturovat, psát texty a řešit filtry. Od 240 EUR měsíčně.",
+            "date_display": "17. 9. 2026", "date_iso": "2026-09-17",
+            "answer": "Kategorie jsou největší SEO kanál e-shopu: Google je řadí na hlavní dotazy. Každá kategorie potřebuje text na reálná hledání, správný H1, interní odkazy a filtry bez duplicitních URL. Kategorie bez hledání zrušte nebo přesměrujte.",
+            "sections": """
+<h2>Struktura kategorií podle hledání</h2>
+<p>Struktura kategorií má odpovídat tomu, co zákazníci hledají. Dotazy ověříte přes Marketing Miner nebo autocomplete. Každá hlavní kategorie = jeden dotaz s objemem. Podkategorie = dlouhý chvost ("dámské boty na běhání").</p>
+
+<h2>Text kategorie</h2>
+<ul>
+<li><strong>H1</strong>: přesný název, jak zákazníci hledají. Ne marketingový slogan.</li>
+<li><strong>Úvod</strong>: odpověď hned, nad produkty.</li>
+<li><strong>Další text</strong>: pod produkty, 200 až 400 slov. Podotázky (barvy, velikosti, použití).</li>
+<li><strong>Interní odkazy</strong>: z kategorie na související kategorie a blog.</li>
+</ul>
+
+<h2>Filtry a jejich URL</h2>
+<p>Filtry vytvářejí nové URL a tisíce duplicitních stránek. Riešení: canonical na čistou kategorii nebo noindex filtrů. Populární filtry (barva + model) s vlastními hledáními jde udělat jako samostatné stránky s textem.</p>
+
+<h2>Kolik to stojí</h2>
+<p>Kategorie jsou největší kanál e-shopu. Texty kategorií a řešení filtrů jsou součástí retaineru od 240 EUR měsíčně (12 EUR za hodinu).</p>
+""",
+            "faq": [
+                ("Kolik textu má mít kategorie?", "Úvod 2 až 3 řádky nad produkty, doplnkový text 200 až 400 slov pod produkty. Relevance důležitější než délka."),
+                ("Indexovat stránky s filtry?", "Ne, filtrované URL canonicalizujte na čistou kategorii. Výjimkou jsou filtry s vlastními hledáními."),
+                ("Píšete texty kategorií?", "Ano, na reálná hledání z dat. Součást retaineru od 240 EUR měsíčně."),
+            ],
+            "related": [
+                ("seo-pre-eshop-navod", "SEO pro e-shop: kompletní návod 2026"),
+                ("eshop-seo-cena", "Kolik stojí SEO pro e-shop"),
+            ],
+        },
+    },
+    "shoptet-seo": {
+        "sk": {
+            "label": "Shoptet",
+            "h1": "SEO na Shoptet: čo nastaviť a čo riešiť systémovo",
+            "title": "SEO na Shoptet: čo nastaviť a čo riešiť | SEO pre e-shopy",
+            "desc": "SEO na Shoptet: čo sa dá nastaviť v adminovi, čo vyžaduje zásah do šablóny a ako riešiť filtre a duplicitné URL. Od 240 EUR mesačne.",
+            "date_display": "17. 9. 2026", "date_iso": "2026-09-17",
+            "answer": "Shoptet má SEO základ dobrý, ale tri veci vyžadujú pozornosť: texty kategórií (v adminovi), duplicitné URL z filtrov (rieši šablóna alebo nastavenie) a XML feed pre Google Merchant Center. Shoptet 5400/mo hľadaní v SK znamená, že veľa e-shopov beží na ňom, konkurencia je tam už tiež.",
+            "sections": """
+<h2>Čo sa dá nastaviť v Shoptet admine</h2>
+<ul>
+<li><strong>Meta titulky a popisy</strong>: pri každej kategórii, produkte a stránke. Ručne, nie automaticky.</li>
+<li><strong>Texty kategórií</strong>: horný aj dolný text. Píšte na reálne hľadania.</li>
+<li><strong>Canonical</strong>: Shoptet to rieši sám pre produkty, filtre treba skontrolovať.</li>
+<li><strong>Sitemap</strong>: automaticky, poslať do Search Console.</li>
+<li><strong>Shoptet Premium</strong>: advanced SEO nastavenia sú v platenej verzii, vyplatí sa.</li>
+</ul>
+
+<h2>Čo na Shoptete býva problém</h2>
+<p>Filre vytvárajú tisíce URL, ktoré Google indexuje. Riešenie je v nastaveniach alebo šablóne. Ďalší problém: rovnaké popisy produktov ako od dodávateľa (duplicitný obsah s konkurenciou). Rieši systémová šablóna popisov s vlastnými textami.</p>
+
+<h2>Shoptet vs vlastné riešenie pre SEO</h2>
+<p>Shoptet je dobrá voľba pre SEO: rýchly hosting, spravovaná platforma, XML feedy v cene. Obmedzenia: obmedzený prístup ku kódu šablóny a menej priestoru pre technické úpravy. Pre väčšinu e-shopov to nevadí: obsah a kategórie rozhodujú viac než technické detaily.</p>
+
+<h2>Koľko stojí SEO na Shoptete</h2>
+<p>Menší Shoptet e-shop: 20 hodín mesačne = 240 EUR. Stredný s obsahom a produktami: 30 hodín = 360 EUR. Veľký so systémovou optimalizáciou: 40 hodín = 480 EUR. Audit Shoptet e-shopu je bezplatný.</p>
+""",
+            "faq": [
+                ("Je Shoptet dobrý pre SEO?", "Áno. Má sitemap, canonical a XML feedy v cene. Limitujúce je menej prístupu ku kódu, ale pre väčšinu e-shopov to nevadí."),
+                ("Ako riešiť duplicitné URL z filtrov na Shoptete?", "Nastavením canonical alebo noindex pre filter URL. Čo presne nastaviť, vám ukážem pri audite."),
+                ("Optimalizujete aj Shoptet feedy?", "Áno, XML feed pre Google Merchant Center je súčasť technickej práce: správné názvy, atribúty, dostupnosť."),
+            ],
+            "related": [
+                ("seo-pre-eshop-navod", "SEO pre e-shop: kompletný návod 2026"),
+                ("kategorie-seo", "Kategórie e-shopu: ako ich optimalizovať pre Google"),
+            ],
+        },
+        "cz": {
+            "label": "Shoptet",
+            "h1": "SEO na Shoptet: co nastavit a co řešit systémově",
+            "title": "SEO na Shoptet: co nastavit a co řešit | SEO pro e-shopy",
+            "desc": "SEO na Shoptet: co jde nastavit v adminu, co vyžaduje zásah do šablony a jak řešit filtry a duplicity. Od 240 EUR měsíčně.",
+            "date_display": "17. 9. 2026", "date_iso": "2026-09-17",
+            "answer": "Shoptet má SEO základy dobré, ale tři věci potřebují pozornost: texty kategorií (v adminu), duplicitní URL z filtrů a XML feed pro Google Merchant Center. Shoptet je nejjednodušší platforma pro běžný e-shop SEO, limitem je přístup ke kódu šablony.",
+            "sections": """
+<h2>Co jde nastavit v Shoptet adminu</h2>
+<ul>
+<li><strong>Meta titulky a popisy</strong>: u každé kategorie, produktu i stránky. Ručně, ne automaticky.</li>
+<li><strong>Texty kategorií</strong>: horní i dolní. Psát na reálná hledání.</li>
+<li><strong>Canonical</strong>: Shoptet to řeší u produktů, filtre zkontrolujte.</li>
+<li><strong>Sitemap</strong>: automaticky, poslat do Search Console.</li>
+<li><strong>Shoptet Premium</strong>: pokročilé SEO nastavení je v placené verzi.</li>
+</ul>
+
+<h2>Co na Shoptetu bývá problém</h2>
+<p>Filtry vytvářejí tisíce URL, které Google indexuje. Řešení je v nastavení nebo šabloně. Druhý problém: stejný popis produktu jako od dodavatele, duplicitní s konkurencí. Řeší systém šablon s vlastními texty.</p>
+
+<h2>Shoptet vs vlastní řešení pro SEO</h2>
+<p>Shoptet je dobrá volba pro SEO: sitemap, canonical i XML feedy v ceně. Limitem je přístup ke kódu šablony. Pro většinu e-shopů nevadí: kategorie a obsah rozhodují víc než technické detaily.</p>
+
+<h2>Kolik stojí SEO na Shoptetu</h2>
+<p>Menší Shoptet e-shop: 20 hodin měsíčně = 240 EUR. Střední s obsahem a produkty: 30 hodin = 360 EUR. Velký se systémovou optimalizací: 40 hodin = 480 EUR. Audit Shoptet e-shopu je bezplatný.</p>
+""",
+            "faq": [
+                ("Je Shoptet dobrý pro SEO?", "Ano. Sitemap, canonical i XML feedy v ceně. Limitem je přístup ke kódu, ale pro většinu e-shopů nevadí."),
+                ("Jak řešit duplicitní URL z filtrů?", "Canonical nebo noindex pro URL filtrů. Co přesně nastavit, ukážu při auditu."),
+                ("Optimalizujete Shoptet feedy?", "Ano, XML feed pro Merchant Center je součást technické práce."),
+            ],
+            "related": [
+                ("seo-pre-eshop-navod", "SEO pro e-shop: kompletní návod 2026"),
+                ("kategorie-seo", "Kategorie e-shopu: jak je optimalizovat pro Google"),
+            ],
+        },
+    },
+    "eshop-seo-cena": {
+        "sk": {
+            "label": "Cena",
+            "h1": "Koľko stojí SEO pre e-shop (2026)? Ceny a čo za ne dostanete",
+            "title": "Koľko stojí SEO pre e-shop | SEO pre e-shopy",
+            "desc": "Cena SEO pre e-shop: 240 až 480 EUR mesačne pri hodinovej sadzbe 12 EUR. Čo je v cene, čo nie a ako spoznať predražený paušál.",
+            "date_display": "17. 9. 2026", "date_iso": "2026-09-17",
+            "answer": "SEO pre e-shop stojí 240 až 480 EUR mesačne pri transparentnej hodinovej sadzbe 12 EUR: menší e-shop 20 hodín (240 EUR), stredný 30 hodín (360 EUR), veľký so systémovou optimalizáciou 40 hodín (480 EUR). Bezplatný audit e-shopu je prvý krok. Paušály od agentúr bývajú 800 až 2000 EUR mesačne a neviete, čo obsahujú.",
+            "sections": """
+<h2>Prečo hodinová cena a nie paušál</h2>
+<p>Paušál vám povie, koľko platíte, ale nie čo za to. Hodinová sadzba s vykázanou prácou znamená: každý mesiac vidíte, čo sa robilo, koľko hodín a čo to prinieslo. Retainer meníte alebo ukončíte kedykoľvek, bez sankcií.</p>
+
+<h2>Cenové balíčky pre e-shopy</h2>
+<ul>
+<li><strong>Menší e-shop (do 500 produktov)</strong>: 20 hodín mesačne = 240 EUR. Hlavné kategórie, technické základy, mesačný report.</li>
+<li><strong>Stredný e-shop</strong>: 30 hodín = 360 EUR. Plus produkty, XML feedy a 2 blogové články.</li>
+<li><strong>Veľký e-shop</strong>: 40 hodín = 480 EUR. Plus systémová optimalizácia produktov, riešenie filtrov a duplicit.</li>
+</ul>
+
+<h2>Čo ovplyvňuje cenu</h2>
+<p>Rozsah sortimentu (koľko kategórií a produktov), stav techniky (duplicitné URL z filtrov), konkurencia vo vašom segmente a koľko obsahu robíme mesačne. Presný rozsah potvrdím v pláne po bezplatnom audite, žiadne prekvapenia v fakturácii.</p>
+
+<h2>Porovnanie s trhom</h2>
+<p>Slovenské a české agentúry ponúkajú e-shop SEO paušály od 500 do 2000 EUR mesačne. Hodinová spolupráca od 240 EUR mesačne je pre väčšinu e-shopov efektívnejšia: platíte za prácu, nie za prémiové kancelárie. Rozdiel nie je v kvalite, ale v tom, ako je cena vykázaná.</p>
+""",
+            "faq": [
+                ("Prečo je vstupný audit bezplatný?", "Lebo rozhodnutie o spolupráci potrebujete podložené číslami. Ak vám čísla nebudú dávať zmysel, nič neplatíte."),
+                ("Môžem meniť balíček mesačne?", "Áno, balíčky sú odporúčané rozsahy. Kedykoľvek ich môžete zmeniť bez sankcií."),
+                ("Čo keď potrebujem viac hodín v jednom mesiaci?", "Riešime to projektovo: väčšia zmena (migrácia, redesign, nová kategória) ide ako samostatná objednávka mimo retainera."),
+            ],
+            "related": [
+                ("seo-pre-eshop-navod", "SEO pre e-shop: kompletný návod 2026"),
+                ("audit-eshopu", "SEO audit e-shopu: čo skontrolovať ako prvé"),
+            ],
+        },
+        "cz": {
+            "label": "Cena",
+            "h1": "Kolik stojí SEO pro e-shop (2026)?",
+            "title": "Kolik stojí SEO pro e-shop | SEO pro e-shopy",
+            "desc": "SEO pro e-shop: 240 až 480 EUR měsíčně při hodinové sazbě 12 EUR. Co je v ceně a jak poznat předražený paušál.",
+            "date_display": "17. 9. 2026", "date_iso": "2026-09-17",
+            "answer": "SEO pro e-shop stojí 240 až 480 EUR měsíčně při transparentní hodinové sazbě 12 EUR: menší e-shop 20 hodin (240 EUR), střední 30 hodin (360 EUR), velký se systémovou optimalizací 40 hodin (480 EUR). Paušály agentur bývají 800 až 2000 EUR měsíčně a nevíte, co obsahují.",
+            "sections": """
+<h2>Proč hodinová cena a ne paušál</h2>
+<p>Paušál vám řekne, kolik platíte, ale ne co za to dostanete. Hodinová sazba s vykázanou prací znamená: každý měsíc vidíte, co se dělalo, kolik hodin a co to přineslo. Balíček měníte nebo ukončíte kdykoliv, bez sankcí.</p>
+
+<h2>Cenové balíčky pro e-shopy</h2>
+<ul>
+<li><strong>Menší e-shop</strong>: 20 hodin měsíčně = 240 EUR. Hlavní kategorie, technické základy, měsíční report.</li>
+<li><strong>Střední e-shop</strong>: 30 hodín = 360 EUR. Plus produkty, XML feedy a 2 články.</li>
+<li><strong>Velký e-shop</strong>: 40 hodin = 480 EUR. Plus systémová optimalizace produktů, řešení filtrů a duplicit.</li>
+</ul>
+
+<h2>Co ovlivňuje cenu</h2>
+<p>Rozsah sortimentu, stav techniky (duplicitní URL z filtrů) a kolik obsahu děláme měsíčně. Přesný rozsah potvrdím v plánu po bezplatném auditu. Žádná překvapení ve fakturaci.</p>
+
+<h2>Porovnání s trhem</h2>
+<p>České agentury nabízejí e-shop SEO paušály od 800 do 2000 EUR měsíčně. Hodinová spolupráce od 240 EUR je pro většinu e-shopů efektivnější: platíte za práci, ne za premium kanceláře.</p>
+""",
+            "faq": [
+                ("Proč je vstupní audit bezplatný?", "Protože rozhodnutí o spolupráci potřebujete podložené čísly. Když vám čísla nebudou dávat smysl, nic neplatíte."),
+                ("Můžu měnit balíček?", "Ano, balíčky jsou doporučené rozsahy, mění se kdykoliv bez sankcí."),
+                ("Co když potřebuji víc hodin v jednom měsíci?", "Řešíme to projektově: větší změna jde jako samostatná objednávka mimo retainer."),
+            ],
+            "related": [
+                ("seo-pre-eshop-navod", "SEO pro e-shop: kompletní návod 2026"),
+                ("kategorie-seo", "Kategorie e-shopu: jak je optimalizovat pro Google"),
+            ],
+        },
+    },
+}

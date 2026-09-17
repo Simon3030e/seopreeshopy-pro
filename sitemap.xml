@@ -1,79 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://seopreeshopy.pro/</loc>
-    <xhtml:link rel="alternate" hreflang="sk" href="https://seopreeshopy.pro/"/><xhtml:link rel="alternate" hreflang="cs" href="https://seopreeshopy.pro/cz/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://seopreeshopy.pro/"/><lastmod>2026-09-16</lastmod><priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://seopreeshopy.pro/sk/blog/</loc>
-    <xhtml:link rel="alternate" hreflang="sk" href="https://seopreeshopy.pro/sk/blog/"/><xhtml:link rel="alternate" hreflang="cs" href="https://seopreeshopy.pro/cz/blog/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://seopreeshopy.pro/sk/blog/"/><lastmod>2026-09-16</lastmod><priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://seopreeshopy.pro/sk/cennik/</loc>
-    <xhtml:link rel="alternate" hreflang="sk" href="https://seopreeshopy.pro/sk/cennik/"/><xhtml:link rel="alternate" hreflang="cs" href="https://seopreeshopy.pro/cz/cenik/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://seopreeshopy.pro/sk/cennik/"/><lastmod>2026-09-16</lastmod><priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://seopreeshopy.pro/sk/jak-pracujeme/</loc>
-    <xhtml:link rel="alternate" hreflang="sk" href="https://seopreeshopy.pro/sk/jak-pracujeme/"/><xhtml:link rel="alternate" hreflang="cs" href="https://seopreeshopy.pro/cz/jak-pracujeme/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://seopreeshopy.pro/sk/jak-pracujeme/"/><lastmod>2026-09-16</lastmod><priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://seopreeshopy.pro/sk/kontakt/</loc>
-    <xhtml:link rel="alternate" hreflang="sk" href="https://seopreeshopy.pro/sk/kontakt/"/><xhtml:link rel="alternate" hreflang="cs" href="https://seopreeshopy.pro/cz/kontakt/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://seopreeshopy.pro/sk/kontakt/"/><lastmod>2026-09-16</lastmod><priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://seopreeshopy.pro/sk/sluzby/</loc>
-    <xhtml:link rel="alternate" hreflang="sk" href="https://seopreeshopy.pro/sk/sluzby/"/><xhtml:link rel="alternate" hreflang="cs" href="https://seopreeshopy.pro/cz/sluzby/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://seopreeshopy.pro/sk/sluzby/"/><lastmod>2026-09-16</lastmod><priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://seopreeshopy.pro/sk/sluzby/eshop-audit/</loc>
-    <xhtml:link rel="alternate" hreflang="sk" href="https://seopreeshopy.pro/sk/sluzby/eshop-audit/"/><xhtml:link rel="alternate" hreflang="cs" href="https://seopreeshopy.pro/cz/sluzby/eshop-audit/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://seopreeshopy.pro/sk/sluzby/eshop-audit/"/><lastmod>2026-09-16</lastmod><priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://seopreeshopy.pro/sk/sluzby/kategorie-a-produkty/</loc>
-    <xhtml:link rel="alternate" hreflang="sk" href="https://seopreeshopy.pro/sk/sluzby/kategorie-a-produkty/"/><xhtml:link rel="alternate" hreflang="cs" href="https://seopreeshopy.pro/cz/sluzby/kategorie-a-produkty/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://seopreeshopy.pro/sk/sluzby/kategorie-a-produkty/"/><lastmod>2026-09-16</lastmod><priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://seopreeshopy.pro/sk/sluzby/seo-optimalizacia/</loc>
-    <xhtml:link rel="alternate" hreflang="sk" href="https://seopreeshopy.pro/sk/sluzby/seo-optimalizacia/"/><xhtml:link rel="alternate" hreflang="cs" href="https://seopreeshopy.pro/cz/sluzby/seo-optimalizace/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://seopreeshopy.pro/sk/sluzby/seo-optimalizacia/"/><lastmod>2026-09-16</lastmod><priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://seopreeshopy.pro/sk/sluzby/technicke-seo-eshopu/</loc>
-    <xhtml:link rel="alternate" hreflang="sk" href="https://seopreeshopy.pro/sk/sluzby/technicke-seo-eshopu/"/><xhtml:link rel="alternate" hreflang="cs" href="https://seopreeshopy.pro/cz/sluzby/technicke-seo-eshopu/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://seopreeshopy.pro/sk/sluzby/technicke-seo-eshopu/"/><lastmod>2026-09-16</lastmod><priority>0.7</priority>
+    <loc>https://seopreeshopy.pro/cz/blog/eshop-seo-cena/</loc>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://seopreeshopy.pro/sk/blog/eshop-seo-cena/"/><xhtml:link rel="alternate" hreflang="cs" href="https://seopreeshopy.pro/cz/blog/eshop-seo-cena/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://seopreeshopy.pro/sk/blog/eshop-seo-cena/"/><lastmod>2026-09-17</lastmod><priority>0.6</priority>
   </url>
   <url>
     <loc>https://seopreeshopy.pro/cz/blog/</loc>
-    <xhtml:link rel="alternate" hreflang="sk" href="https://seopreeshopy.pro/sk/blog/"/><xhtml:link rel="alternate" hreflang="cs" href="https://seopreeshopy.pro/cz/blog/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://seopreeshopy.pro/sk/blog/"/><lastmod>2026-09-16</lastmod><priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://seopreeshopy.pro/sk/blog/"/><xhtml:link rel="alternate" hreflang="cs" href="https://seopreeshopy.pro/cz/blog/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://seopreeshopy.pro/sk/blog/"/><lastmod>2026-09-17</lastmod><priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://seopreeshopy.pro/cz/blog/kategorie-seo/</loc>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://seopreeshopy.pro/sk/blog/kategorie-seo/"/><xhtml:link rel="alternate" hreflang="cs" href="https://seopreeshopy.pro/cz/blog/kategorie-seo/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://seopreeshopy.pro/sk/blog/kategorie-seo/"/><lastmod>2026-09-17</lastmod><priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://seopreeshopy.pro/cz/blog/seo-pre-eshop-navod/</loc>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://seopreeshopy.pro/sk/blog/seo-pre-eshop-navod/"/><xhtml:link rel="alternate" hreflang="cs" href="https://seopreeshopy.pro/cz/blog/seo-pre-eshop-navod/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://seopreeshopy.pro/sk/blog/seo-pre-eshop-navod/"/><lastmod>2026-09-17</lastmod><priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://seopreeshopy.pro/cz/blog/shoptet-seo/</loc>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://seopreeshopy.pro/sk/blog/shoptet-seo/"/><xhtml:link rel="alternate" hreflang="cs" href="https://seopreeshopy.pro/cz/blog/shoptet-seo/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://seopreeshopy.pro/sk/blog/shoptet-seo/"/><lastmod>2026-09-17</lastmod><priority>0.6</priority>
   </url>
   <url>
     <loc>https://seopreeshopy.pro/cz/cenik/</loc>
-    <xhtml:link rel="alternate" hreflang="sk" href="https://seopreeshopy.pro/sk/cenik/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://seopreeshopy.pro/sk/cenik/"/><lastmod>2026-09-16</lastmod><priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://seopreeshopy.pro/sk/cennik/"/><xhtml:link rel="alternate" hreflang="cs" href="https://seopreeshopy.pro/cz/cenik/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://seopreeshopy.pro/sk/cennik/"/><lastmod>2026-09-17</lastmod><priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://seopreeshopy.pro/cz/</loc>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://seopreeshopy.pro/"/><xhtml:link rel="alternate" hreflang="cs" href="https://seopreeshopy.pro/cz/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://seopreeshopy.pro/"/><lastmod>2026-09-17</lastmod><priority>1.0</priority>
   </url>
   <url>
     <loc>https://seopreeshopy.pro/cz/jak-pracujeme/</loc>
-    <xhtml:link rel="alternate" hreflang="sk" href="https://seopreeshopy.pro/sk/jak-pracujeme/"/><xhtml:link rel="alternate" hreflang="cs" href="https://seopreeshopy.pro/cz/jak-pracujeme/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://seopreeshopy.pro/sk/jak-pracujeme/"/><lastmod>2026-09-16</lastmod><priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://seopreeshopy.pro/sk/jak-pracujeme/"/><xhtml:link rel="alternate" hreflang="cs" href="https://seopreeshopy.pro/cz/jak-pracujeme/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://seopreeshopy.pro/sk/jak-pracujeme/"/><lastmod>2026-09-17</lastmod><priority>0.5</priority>
   </url>
   <url>
     <loc>https://seopreeshopy.pro/cz/kontakt/</loc>
-    <xhtml:link rel="alternate" hreflang="sk" href="https://seopreeshopy.pro/sk/kontakt/"/><xhtml:link rel="alternate" hreflang="cs" href="https://seopreeshopy.pro/cz/kontakt/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://seopreeshopy.pro/sk/kontakt/"/><lastmod>2026-09-16</lastmod><priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://seopreeshopy.pro/cz/sluzby/</loc>
-    <xhtml:link rel="alternate" hreflang="sk" href="https://seopreeshopy.pro/sk/sluzby/"/><xhtml:link rel="alternate" hreflang="cs" href="https://seopreeshopy.pro/cz/sluzby/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://seopreeshopy.pro/sk/sluzby/"/><lastmod>2026-09-16</lastmod><priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://seopreeshopy.pro/sk/kontakt/"/><xhtml:link rel="alternate" hreflang="cs" href="https://seopreeshopy.pro/cz/kontakt/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://seopreeshopy.pro/sk/kontakt/"/><lastmod>2026-09-17</lastmod><priority>0.5</priority>
   </url>
   <url>
     <loc>https://seopreeshopy.pro/cz/sluzby/eshop-audit/</loc>
-    <xhtml:link rel="alternate" hreflang="sk" href="https://seopreeshopy.pro/sk/sluzby/eshop-audit/"/><xhtml:link rel="alternate" hreflang="cs" href="https://seopreeshopy.pro/cz/sluzby/eshop-audit/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://seopreeshopy.pro/sk/sluzby/eshop-audit/"/><lastmod>2026-09-16</lastmod><priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://seopreeshopy.pro/sk/sluzby/eshop-audit/"/><xhtml:link rel="alternate" hreflang="cs" href="https://seopreeshopy.pro/cz/sluzby/eshop-audit/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://seopreeshopy.pro/sk/sluzby/eshop-audit/"/><lastmod>2026-09-17</lastmod><priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://seopreeshopy.pro/cz/sluzby/</loc>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://seopreeshopy.pro/sk/sluzby/"/><xhtml:link rel="alternate" hreflang="cs" href="https://seopreeshopy.pro/cz/sluzby/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://seopreeshopy.pro/sk/sluzby/"/><lastmod>2026-09-17</lastmod><priority>0.9</priority>
   </url>
   <url>
     <loc>https://seopreeshopy.pro/cz/sluzby/kategorie-a-produkty/</loc>
-    <xhtml:link rel="alternate" hreflang="sk" href="https://seopreeshopy.pro/sk/sluzby/kategorie-a-produkty/"/><xhtml:link rel="alternate" hreflang="cs" href="https://seopreeshopy.pro/cz/sluzby/kategorie-a-produkty/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://seopreeshopy.pro/sk/sluzby/kategorie-a-produkty/"/><lastmod>2026-09-16</lastmod><priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://seopreeshopy.pro/sk/sluzby/kategorie-a-produkty/"/><xhtml:link rel="alternate" hreflang="cs" href="https://seopreeshopy.pro/cz/sluzby/kategorie-a-produkty/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://seopreeshopy.pro/sk/sluzby/kategorie-a-produkty/"/><lastmod>2026-09-17</lastmod><priority>0.5</priority>
   </url>
   <url>
     <loc>https://seopreeshopy.pro/cz/sluzby/seo-optimalizace/</loc>
-    <xhtml:link rel="alternate" hreflang="sk" href="https://seopreeshopy.pro/sk/sluzby/seo-optimalizace/"/><xhtml:link rel="alternate" hreflang="cs" href="https://seopreeshopy.pro/cz/sluzby/seo-optimalizacia/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://seopreeshopy.pro/sk/sluzby/seo-optimalizace/"/><lastmod>2026-09-16</lastmod><priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://seopreeshopy.pro/sk/sluzby/seo-optimalizacia/"/><xhtml:link rel="alternate" hreflang="cs" href="https://seopreeshopy.pro/cz/sluzby/seo-optimalizace/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://seopreeshopy.pro/sk/sluzby/seo-optimalizacia/"/><lastmod>2026-09-17</lastmod><priority>0.9</priority>
   </url>
   <url>
     <loc>https://seopreeshopy.pro/cz/sluzby/technicke-seo-eshopu/</loc>
-    <xhtml:link rel="alternate" hreflang="sk" href="https://seopreeshopy.pro/sk/sluzby/technicke-seo-eshopu/"/><xhtml:link rel="alternate" hreflang="cs" href="https://seopreeshopy.pro/cz/sluzby/technicke-seo-eshopu/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://seopreeshopy.pro/sk/sluzby/technicke-seo-eshopu/"/><lastmod>2026-09-16</lastmod><priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://seopreeshopy.pro/sk/sluzby/technicke-seo-eshopu/"/><xhtml:link rel="alternate" hreflang="cs" href="https://seopreeshopy.pro/cz/sluzby/technicke-seo-eshopu/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://seopreeshopy.pro/sk/sluzby/technicke-seo-eshopu/"/><lastmod>2026-09-17</lastmod><priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://seopreeshopy.pro/</loc>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://seopreeshopy.pro/"/><xhtml:link rel="alternate" hreflang="cs" href="https://seopreeshopy.pro/cz/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://seopreeshopy.pro/"/><lastmod>2026-09-17</lastmod><priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://seopreeshopy.pro/sk/blog/eshop-seo-cena/</loc>
+    <lastmod>2026-09-17</lastmod><priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://seopreeshopy.pro/sk/blog/</loc>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://seopreeshopy.pro/sk/blog/"/><xhtml:link rel="alternate" hreflang="cs" href="https://seopreeshopy.pro/cz/blog/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://seopreeshopy.pro/sk/blog/"/><lastmod>2026-09-17</lastmod><priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://seopreeshopy.pro/sk/blog/kategorie-seo/</loc>
+    <lastmod>2026-09-17</lastmod><priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://seopreeshopy.pro/sk/blog/seo-pre-eshop-navod/</loc>
+    <lastmod>2026-09-17</lastmod><priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://seopreeshopy.pro/sk/blog/shoptet-seo/</loc>
+    <lastmod>2026-09-17</lastmod><priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://seopreeshopy.pro/sk/cennik/</loc>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://seopreeshopy.pro/sk/cennik/"/><xhtml:link rel="alternate" hreflang="cs" href="https://seopreeshopy.pro/cz/cenik/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://seopreeshopy.pro/sk/cennik/"/><lastmod>2026-09-17</lastmod><priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://seopreeshopy.pro/sk/jak-pracujeme/</loc>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://seopreeshopy.pro/sk/jak-pracujeme/"/><xhtml:link rel="alternate" hreflang="cs" href="https://seopreeshopy.pro/cz/jak-pracujeme/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://seopreeshopy.pro/sk/jak-pracujeme/"/><lastmod>2026-09-17</lastmod><priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://seopreeshopy.pro/sk/kontakt/</loc>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://seopreeshopy.pro/sk/kontakt/"/><xhtml:link rel="alternate" hreflang="cs" href="https://seopreeshopy.pro/cz/kontakt/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://seopreeshopy.pro/sk/kontakt/"/><lastmod>2026-09-17</lastmod><priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://seopreeshopy.pro/sk/sluzby/eshop-audit/</loc>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://seopreeshopy.pro/sk/sluzby/eshop-audit/"/><xhtml:link rel="alternate" hreflang="cs" href="https://seopreeshopy.pro/cz/sluzby/eshop-audit/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://seopreeshopy.pro/sk/sluzby/eshop-audit/"/><lastmod>2026-09-17</lastmod><priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://seopreeshopy.pro/sk/sluzby/</loc>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://seopreeshopy.pro/sk/sluzby/"/><xhtml:link rel="alternate" hreflang="cs" href="https://seopreeshopy.pro/cz/sluzby/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://seopreeshopy.pro/sk/sluzby/"/><lastmod>2026-09-17</lastmod><priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://seopreeshopy.pro/sk/sluzby/kategorie-a-produkty/</loc>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://seopreeshopy.pro/sk/sluzby/kategorie-a-produkty/"/><xhtml:link rel="alternate" hreflang="cs" href="https://seopreeshopy.pro/cz/sluzby/kategorie-a-produkty/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://seopreeshopy.pro/sk/sluzby/kategorie-a-produkty/"/><lastmod>2026-09-17</lastmod><priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://seopreeshopy.pro/sk/sluzby/seo-optimalizacia/</loc>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://seopreeshopy.pro/sk/sluzby/seo-optimalizacia/"/><xhtml:link rel="alternate" hreflang="cs" href="https://seopreeshopy.pro/cz/sluzby/seo-optimalizace/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://seopreeshopy.pro/sk/sluzby/seo-optimalizacia/"/><lastmod>2026-09-17</lastmod><priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://seopreeshopy.pro/sk/sluzby/technicke-seo-eshopu/</loc>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://seopreeshopy.pro/sk/sluzby/technicke-seo-eshopu/"/><xhtml:link rel="alternate" hreflang="cs" href="https://seopreeshopy.pro/cz/sluzby/technicke-seo-eshopu/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://seopreeshopy.pro/sk/sluzby/technicke-seo-eshopu/"/><lastmod>2026-09-17</lastmod><priority>0.5</priority>
   </url>
 </urlset>
